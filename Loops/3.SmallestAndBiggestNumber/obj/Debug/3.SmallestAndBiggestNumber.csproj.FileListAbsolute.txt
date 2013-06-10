@@ -1,0 +1,9 @@
+D:\Pzb\Web\Programming\C#\6.Loops\HW-Loops\3.SmallestAndBiggestNumber\bin\Debug\3.SmallestAndBiggestNumber.exe.config
+D:\Pzb\Web\Programming\C#\6.Loops\HW-Loops\3.SmallestAndBiggestNumber\bin\Debug\3.SmallestAndBiggestNumber.exe
+D:\Pzb\Web\Programming\C#\6.Loops\HW-Loops\3.SmallestAndBiggestNumber\bin\Debug\3.SmallestAndBiggestNumber.pdb
+D:\Pzb\Web\Programming\C#\6.Loops\HW-Loops\3.SmallestAndBiggestNumber\obj\Debug\3.SmallestAndBiggestNumber.csprojResolveAssemblyReference.cache
+D:\Pzb\Web\Programming\C#\6.Loops\HW-Loops\3.SmallestAndBiggestNumber\obj\Debug\3.SmallestAndBiggestNumber.exe
+D:\Pzb\Web\Programming\C#\6.Loops\HW-Loops\3.SmallestAndBiggestNumber\obj\Debug\3.SmallestAndBiggestNumber.pdb
+D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\3.SmallestAndBiggestNumber\bin\Debug\3.SmallestAndBiggestNumber.exe.config
+D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\3.SmallestAndBiggestNumber\obj\Debug\3.SmallestAndBiggestNumber.exe
+D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\3.SmallestAndBiggestNumber\obj\Debug\3.SmallestAndBiggestNumber.pdb

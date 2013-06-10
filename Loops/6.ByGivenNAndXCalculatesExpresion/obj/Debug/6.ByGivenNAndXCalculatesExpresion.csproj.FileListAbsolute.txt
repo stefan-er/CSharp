@@ -1,0 +1,9 @@
+D:\Pzb\Web\Programming\C#\6.Loops\HW-Loops\6.ByGivenNAndXCalculatesExpresion\bin\Debug\6.ByGivenNAndXCalculatesExpresion.exe.config
+D:\Pzb\Web\Programming\C#\6.Loops\HW-Loops\6.ByGivenNAndXCalculatesExpresion\bin\Debug\6.ByGivenNAndXCalculatesExpresion.exe
+D:\Pzb\Web\Programming\C#\6.Loops\HW-Loops\6.ByGivenNAndXCalculatesExpresion\bin\Debug\6.ByGivenNAndXCalculatesExpresion.pdb
+D:\Pzb\Web\Programming\C#\6.Loops\HW-Loops\6.ByGivenNAndXCalculatesExpresion\obj\Debug\6.ByGivenNAndXCalculatesExpresion.csprojResolveAssemblyReference.cache
+D:\Pzb\Web\Programming\C#\6.Loops\HW-Loops\6.ByGivenNAndXCalculatesExpresion\obj\Debug\6.ByGivenNAndXCalculatesExpresion.exe
+D:\Pzb\Web\Programming\C#\6.Loops\HW-Loops\6.ByGivenNAndXCalculatesExpresion\obj\Debug\6.ByGivenNAndXCalculatesExpresion.pdb
+D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\6.ByGivenNAndXCalculatesExpresion\bin\Debug\6.ByGivenNAndXCalculatesExpresion.exe.config
+D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\6.ByGivenNAndXCalculatesExpresion\obj\Debug\6.ByGivenNAndXCalculatesExpresion.exe
+D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\6.ByGivenNAndXCalculatesExpresion\obj\Debug\6.ByGivenNAndXCalculatesExpresion.pdb

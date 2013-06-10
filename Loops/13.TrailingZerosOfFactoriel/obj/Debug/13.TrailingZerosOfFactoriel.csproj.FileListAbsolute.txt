@@ -1,0 +1,6 @@
+D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\13.TrailingZerosOfFactoriel\bin\Debug\13.TrailingZerosOfFactoriel.exe.config
+D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\13.TrailingZerosOfFactoriel\bin\Debug\13.TrailingZerosOfFactoriel.exe
+D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\13.TrailingZerosOfFactoriel\bin\Debug\13.TrailingZerosOfFactoriel.pdb
+D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\13.TrailingZerosOfFactoriel\obj\Debug\13.TrailingZerosOfFactoriel.csprojResolveAssemblyReference.cache
+D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\13.TrailingZerosOfFactoriel\obj\Debug\13.TrailingZerosOfFactoriel.exe
+D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\13.TrailingZerosOfFactoriel\obj\Debug\13.TrailingZerosOfFactoriel.pdb

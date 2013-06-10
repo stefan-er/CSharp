@@ -1,0 +1,5 @@
+D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\12.WriteAMatrix\bin\Debug\12.WriteAMatrix.exe.config
+D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\12.WriteAMatrix\bin\Debug\12.WriteAMatrix.exe
+D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\12.WriteAMatrix\bin\Debug\12.WriteAMatrix.pdb
+D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\12.WriteAMatrix\obj\Debug\12.WriteAMatrix.exe
+D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\12.WriteAMatrix\obj\Debug\12.WriteAMatrix.pdb

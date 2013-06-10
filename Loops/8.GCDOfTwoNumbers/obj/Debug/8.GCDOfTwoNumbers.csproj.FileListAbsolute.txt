@@ -1,0 +1,6 @@
+D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\8.GCDOfTwoNumbers\bin\Debug\8.GCDOfTwoNumbers.exe.config
+D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\8.GCDOfTwoNumbers\bin\Debug\8.GCDOfTwoNumbers.exe
+D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\8.GCDOfTwoNumbers\bin\Debug\8.GCDOfTwoNumbers.pdb
+D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\8.GCDOfTwoNumbers\obj\Debug\8.GCDOfTwoNumbers.csprojResolveAssemblyReference.cache
+D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\8.GCDOfTwoNumbers\obj\Debug\8.GCDOfTwoNumbers.exe
+D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\8.GCDOfTwoNumbers\obj\Debug\8.GCDOfTwoNumbers.pdb
