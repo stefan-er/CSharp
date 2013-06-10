@@ -1,0 +1,2 @@
+This is some text which is used for task number 3 from the Homework of Exception-Handling.
+It's about reading a content of a file by given path.

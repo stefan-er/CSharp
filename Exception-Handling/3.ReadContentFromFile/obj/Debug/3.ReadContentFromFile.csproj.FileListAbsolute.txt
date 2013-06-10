@@ -1,0 +1,12 @@
+D:\Pzb\IT\Programming\C#\13.Exception-Handling\HW-Exception-Handling\3.ReadContentFromFile\bin\Debug\3.ReadContentFromFile.exe.config
+D:\Pzb\IT\Programming\C#\13.Exception-Handling\HW-Exception-Handling\3.ReadContentFromFile\obj\Debug\3.ReadContentFromFile.csprojResolveAssemblyReference.cache
+D:\Pzb\IT\Programming\C#\13.Exception-Handling\HW-Exception-Handling\3.ReadContentFromFile\bin\Debug\3.ReadContentFromFile.exe
+D:\Pzb\IT\Programming\C#\13.Exception-Handling\HW-Exception-Handling\3.ReadContentFromFile\bin\Debug\3.ReadContentFromFile.pdb
+D:\Pzb\IT\Programming\C#\13.Exception-Handling\HW-Exception-Handling\3.ReadContentFromFile\obj\Debug\3.ReadContentFromFile.exe
+D:\Pzb\IT\Programming\C#\13.Exception-Handling\HW-Exception-Handling\3.ReadContentFromFile\obj\Debug\3.ReadContentFromFile.pdb
+C:\Users\stefan\Desktop\Exception-Handling\3.ReadContentFromFile\bin\Debug\3.ReadContentFromFile.exe.config
+C:\Users\stefan\Desktop\Exception-Handling\3.ReadContentFromFile\obj\Debug\3.ReadContentFromFile.exe
+C:\Users\stefan\Desktop\Exception-Handling\3.ReadContentFromFile\obj\Debug\3.ReadContentFromFile.pdb
+C:\Users\stefan\Desktop\Exception-Handling\3.ReadContentFromFile\bin\Debug\3.ReadContentFromFile.exe
+C:\Users\stefan\Desktop\Exception-Handling\3.ReadContentFromFile\bin\Debug\3.ReadContentFromFile.pdb
+C:\Users\stefan\Desktop\Exception-Handling\3.ReadContentFromFile\obj\Debug\3.ReadContentFromFile.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\Pzb\IT\Programming\C#\13.Exception-Handling\HW-Exception-Handling\1.SquareRootOfInteger\bin\Debug\1.SquareRootOfInteger.exe.config
+D:\Pzb\IT\Programming\C#\13.Exception-Handling\HW-Exception-Handling\1.SquareRootOfInteger\bin\Debug\1.SquareRootOfInteger.exe
+D:\Pzb\IT\Programming\C#\13.Exception-Handling\HW-Exception-Handling\1.SquareRootOfInteger\bin\Debug\1.SquareRootOfInteger.pdb
+D:\Pzb\IT\Programming\C#\13.Exception-Handling\HW-Exception-Handling\1.SquareRootOfInteger\obj\Debug\1.SquareRootOfInteger.csprojResolveAssemblyReference.cache
+D:\Pzb\IT\Programming\C#\13.Exception-Handling\HW-Exception-Handling\1.SquareRootOfInteger\obj\Debug\1.SquareRootOfInteger.exe
+D:\Pzb\IT\Programming\C#\13.Exception-Handling\HW-Exception-Handling\1.SquareRootOfInteger\obj\Debug\1.SquareRootOfInteger.pdb
+C:\Users\stefan\Desktop\Exception-Handling\1.SquareRootOfInteger\bin\Debug\1.SquareRootOfInteger.exe.config
+C:\Users\stefan\Desktop\Exception-Handling\1.SquareRootOfInteger\obj\Debug\1.SquareRootOfInteger.exe
+C:\Users\stefan\Desktop\Exception-Handling\1.SquareRootOfInteger\obj\Debug\1.SquareRootOfInteger.pdb
