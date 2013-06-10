@@ -1,5 +1,0 @@
-D:\Pzb\Web\Programming\C#\6.Loops\HW-Loops\5.N!MultipliedByK!DividedBy(K-N)\bin\Debug\5.N!MultipliedByK!DividedBy(K-N).exe.config
-D:\Pzb\Web\Programming\C#\6.Loops\HW-Loops\5.N!MultipliedByK!DividedBy(K-N)\bin\Debug\5.N!MultipliedByK!DividedBy(K-N).exe
-D:\Pzb\Web\Programming\C#\6.Loops\HW-Loops\5.N!MultipliedByK!DividedBy(K-N)\bin\Debug\5.N!MultipliedByK!DividedBy(K-N).pdb
-D:\Pzb\Web\Programming\C#\6.Loops\HW-Loops\5.N!MultipliedByK!DividedBy(K-N)\obj\Debug\5.N!MultipliedByK!DividedBy(K-N).exe
-D:\Pzb\Web\Programming\C#\6.Loops\HW-Loops\5.N!MultipliedByK!DividedBy(K-N)\obj\Debug\5.N!MultipliedByK!DividedBy(K-N).pdb

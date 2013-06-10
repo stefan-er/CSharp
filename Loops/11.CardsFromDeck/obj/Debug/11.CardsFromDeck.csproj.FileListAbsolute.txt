@@ -1,6 +1,0 @@
-D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\11.CardsFromDeck\bin\Debug\11.CardsFromDeck.exe.config
-D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\11.CardsFromDeck\bin\Debug\11.CardsFromDeck.exe
-D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\11.CardsFromDeck\bin\Debug\11.CardsFromDeck.pdb
-D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\11.CardsFromDeck\obj\Debug\11.CardsFromDeck.exe
-D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\11.CardsFromDeck\obj\Debug\11.CardsFromDeck.pdb
-D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\11.CardsFromDeck\obj\Debug\11.CardsFromDeck.csprojResolveAssemblyReference.cache

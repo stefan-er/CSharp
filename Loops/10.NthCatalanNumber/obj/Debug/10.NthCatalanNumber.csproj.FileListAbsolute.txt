@@ -1,9 +1,0 @@
-D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\10.NthCatalanNumber\bin\Debug\10.NthCatalanNumber.exe.config
-D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\10.NthCatalanNumber\obj\Debug\10.NthCatalanNumber.csprojResolveAssemblyReference.cache
-D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\10.NthCatalanNumber\bin\Debug\10.NthCatalanNumber.exe
-D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\10.NthCatalanNumber\bin\Debug\10.NthCatalanNumber.pdb
-D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\10.NthCatalanNumber\obj\Debug\10.NthCatalanNumber.exe
-D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\10.NthCatalanNumber\obj\Debug\10.NthCatalanNumber.pdb
-C:\Users\stefan\Desktop\Loops\10.NthCatalanNumber\bin\Debug\10.NthCatalanNumber.exe.config
-C:\Users\stefan\Desktop\Loops\10.NthCatalanNumber\obj\Debug\10.NthCatalanNumber.exe
-C:\Users\stefan\Desktop\Loops\10.NthCatalanNumber\obj\Debug\10.NthCatalanNumber.pdb

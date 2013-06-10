@@ -1,8 +1,0 @@
-D:\Pzb\Web\Programming\C#\6.Loops\HW-Loops\2.NumbersFrom1ToNWithout3And7\bin\Debug\2.NumbersFrom1ToNWithout3And7.exe.config
-D:\Pzb\Web\Programming\C#\6.Loops\HW-Loops\2.NumbersFrom1ToNWithout3And7\bin\Debug\2.NumbersFrom1ToNWithout3And7.exe
-D:\Pzb\Web\Programming\C#\6.Loops\HW-Loops\2.NumbersFrom1ToNWithout3And7\bin\Debug\2.NumbersFrom1ToNWithout3And7.pdb
-D:\Pzb\Web\Programming\C#\6.Loops\HW-Loops\2.NumbersFrom1ToNWithout3And7\obj\Debug\2.NumbersFrom1ToNWithout3And7.exe
-D:\Pzb\Web\Programming\C#\6.Loops\HW-Loops\2.NumbersFrom1ToNWithout3And7\obj\Debug\2.NumbersFrom1ToNWithout3And7.pdb
-D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\2.NumbersFrom1ToNWithout3And7\bin\Debug\2.NumbersFrom1ToNWithout3And7.exe.config
-D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\2.NumbersFrom1ToNWithout3And7\obj\Debug\2.NumbersFrom1ToNWithout3And7.exe
-D:\Pzb\IT\Programming\C#\6.Loops\HW-Loops\2.NumbersFrom1ToNWithout3And7\obj\Debug\2.NumbersFrom1ToNWithout3And7.pdb
