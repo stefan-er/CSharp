@@ -1,0 +1,6 @@
+C:\Users\stefan\Desktop\HW-Defining-Classes-Part-I\1.DefiningClassMobile\bin\Debug\1.ClassMobile.exe.config
+C:\Users\stefan\Desktop\HW-Defining-Classes-Part-I\1.DefiningClassMobile\obj\Debug\1.ClassMobile.exe
+C:\Users\stefan\Desktop\HW-Defining-Classes-Part-I\1.DefiningClassMobile\obj\Debug\1.ClassMobile.pdb
+C:\Users\stefan\Desktop\HW-Defining-Classes-Part-I\DefiningClassMobile\bin\Debug\1.ClassMobile.exe.config
+C:\Users\stefan\Desktop\HW-Defining-Classes-Part-I\DefiningClassMobile\obj\Debug\1.ClassMobile.exe
+C:\Users\stefan\Desktop\HW-Defining-Classes-Part-I\DefiningClassMobile\obj\Debug\1.ClassMobile.pdb

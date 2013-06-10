@@ -1,0 +1,6 @@
+D:\Pzb\IT\Programming\OOP\3.Defining-Classes-Part-II-Static-Members-Generics\HW-Defining-Classes-Part-II\GenericClasses\bin\Debug\GenericClasses.exe.config
+D:\Pzb\IT\Programming\OOP\3.Defining-Classes-Part-II-Static-Members-Generics\HW-Defining-Classes-Part-II\GenericClasses\obj\Debug\GenericClasses.csprojResolveAssemblyReference.cache
+D:\Pzb\IT\Programming\OOP\3.Defining-Classes-Part-II-Static-Members-Generics\HW-Defining-Classes-Part-II\GenericClasses\bin\Debug\GenericClasses.exe
+D:\Pzb\IT\Programming\OOP\3.Defining-Classes-Part-II-Static-Members-Generics\HW-Defining-Classes-Part-II\GenericClasses\bin\Debug\GenericClasses.pdb
+D:\Pzb\IT\Programming\OOP\3.Defining-Classes-Part-II-Static-Members-Generics\HW-Defining-Classes-Part-II\GenericClasses\obj\Debug\GenericClasses.exe
+D:\Pzb\IT\Programming\OOP\3.Defining-Classes-Part-II-Static-Members-Generics\HW-Defining-Classes-Part-II\GenericClasses\obj\Debug\GenericClasses.pdb

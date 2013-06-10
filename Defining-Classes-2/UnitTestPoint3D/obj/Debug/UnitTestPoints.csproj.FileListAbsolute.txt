@@ -1,0 +1,7 @@
+D:\Pzb\IT\Programming\OOP\3.Defining-Classes-Part-II-Static-Members-Generics\HW-Defining-Classes-Part-II\UnitTestPoint3D\bin\Debug\UnitTestPoint3D.dll
+D:\Pzb\IT\Programming\OOP\3.Defining-Classes-Part-II-Static-Members-Generics\HW-Defining-Classes-Part-II\UnitTestPoint3D\bin\Debug\UnitTestPoint3D.pdb
+D:\Pzb\IT\Programming\OOP\3.Defining-Classes-Part-II-Static-Members-Generics\HW-Defining-Classes-Part-II\UnitTestPoint3D\bin\Debug\Points.exe
+D:\Pzb\IT\Programming\OOP\3.Defining-Classes-Part-II-Static-Members-Generics\HW-Defining-Classes-Part-II\UnitTestPoint3D\bin\Debug\Points.pdb
+D:\Pzb\IT\Programming\OOP\3.Defining-Classes-Part-II-Static-Members-Generics\HW-Defining-Classes-Part-II\UnitTestPoint3D\obj\Debug\UnitTestPoints.csprojResolveAssemblyReference.cache
+D:\Pzb\IT\Programming\OOP\3.Defining-Classes-Part-II-Static-Members-Generics\HW-Defining-Classes-Part-II\UnitTestPoint3D\obj\Debug\UnitTestPoint3D.dll
+D:\Pzb\IT\Programming\OOP\3.Defining-Classes-Part-II-Static-Members-Generics\HW-Defining-Classes-Part-II\UnitTestPoint3D\obj\Debug\UnitTestPoint3D.pdb

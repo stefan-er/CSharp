@@ -1,0 +1,6 @@
+D:\Pzb\IT\Programming\OOP\3.Defining-Classes-Part-II-Static-Members-Generics\HW-Defining-Classes-Part-II\CustomAttributes\bin\Debug\CustomAttributes.exe.config
+D:\Pzb\IT\Programming\OOP\3.Defining-Classes-Part-II-Static-Members-Generics\HW-Defining-Classes-Part-II\CustomAttributes\bin\Debug\CustomAttributes.exe
+D:\Pzb\IT\Programming\OOP\3.Defining-Classes-Part-II-Static-Members-Generics\HW-Defining-Classes-Part-II\CustomAttributes\bin\Debug\CustomAttributes.pdb
+D:\Pzb\IT\Programming\OOP\3.Defining-Classes-Part-II-Static-Members-Generics\HW-Defining-Classes-Part-II\CustomAttributes\obj\Debug\CustomAttributes.csprojResolveAssemblyReference.cache
+D:\Pzb\IT\Programming\OOP\3.Defining-Classes-Part-II-Static-Members-Generics\HW-Defining-Classes-Part-II\CustomAttributes\obj\Debug\CustomAttributes.exe
+D:\Pzb\IT\Programming\OOP\3.Defining-Classes-Part-II-Static-Members-Generics\HW-Defining-Classes-Part-II\CustomAttributes\obj\Debug\CustomAttributes.pdb

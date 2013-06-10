@@ -1,0 +1,6 @@
+D:\Pzb\IT\Programming\OOP\3.Defining-Classes-Part-II-Static-Members-Generics\HW-Defining-Classes-Part-II\Points\bin\Debug\Points.exe.config
+D:\Pzb\IT\Programming\OOP\3.Defining-Classes-Part-II-Static-Members-Generics\HW-Defining-Classes-Part-II\Points\bin\Debug\Points.exe
+D:\Pzb\IT\Programming\OOP\3.Defining-Classes-Part-II-Static-Members-Generics\HW-Defining-Classes-Part-II\Points\bin\Debug\Points.pdb
+D:\Pzb\IT\Programming\OOP\3.Defining-Classes-Part-II-Static-Members-Generics\HW-Defining-Classes-Part-II\Points\obj\Debug\Points.csprojResolveAssemblyReference.cache
+D:\Pzb\IT\Programming\OOP\3.Defining-Classes-Part-II-Static-Members-Generics\HW-Defining-Classes-Part-II\Points\obj\Debug\Points.exe
+D:\Pzb\IT\Programming\OOP\3.Defining-Classes-Part-II-Static-Members-Generics\HW-Defining-Classes-Part-II\Points\obj\Debug\Points.pdb
